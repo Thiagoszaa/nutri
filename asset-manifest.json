@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nutri/static/css/main.67bdfb8e.css",
+    "main.js": "/nutri/static/js/main.bf4bfe03.js",
+    "static/js/453.38ec973b.chunk.js": "/nutri/static/js/453.38ec973b.chunk.js",
+    "index.html": "/nutri/index.html",
+    "main.67bdfb8e.css.map": "/nutri/static/css/main.67bdfb8e.css.map",
+    "main.bf4bfe03.js.map": "/nutri/static/js/main.bf4bfe03.js.map",
+    "453.38ec973b.chunk.js.map": "/nutri/static/js/453.38ec973b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67bdfb8e.css",
+    "static/js/main.bf4bfe03.js"
+  ]
+}
